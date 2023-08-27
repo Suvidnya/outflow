@@ -1,0 +1,52 @@
+/* Container for the layout */
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px; /* Adjust margin as needed */
+    margin-top: 40px !important;
+  }
+  
+  /* Left side (Rules) */
+  .left {
+    width: 40%;
+    background-color: #ffffff; /* Left side background color */
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  /* Right side */
+  .right {
+    width: 55%;
+    margin-left: 20px;
+    margin-top: 0 !important;
+    padding: 20px;
+  }
+
+
+  /* Style for the alert bar */
+.alert-bar {
+  background-color: #ffcc00; /* Yellow background color */
+  color: #333; /* Dark text color */
+  text-align: center;
+  padding: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000; /* Make the alert bar appear above other content */
+}
+
+/* Style for the alert message */
+.alert-message {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+}
+
+  
+
+  
+  

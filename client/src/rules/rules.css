@@ -1,0 +1,40 @@
+/* Style for the rules container */
+.rules-container {
+    background-color: rgb(244, 244, 244); /* Yellow background color */
+    padding: 30px;
+    border-radius: 5px;
+  }
+  
+  /* Style for the rules heading */
+  .rules-heading {
+    color: rgb(255,0,0); /* Red color for the heading */
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 20px;
+    margin-top: 0px !important;
+  }
+  
+  .steprules-heading {
+    margin-top: 40px;
+    color: rgb(57, 57, 57); /* Red color for the heading */
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 15px;
+  }
+  
+  /* Style for the rules content (list of rules and steps) */
+  .rules-content ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .rules-content li {
+    margin: 10px 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+  }
+
+  a{
+    color:rgb(3, 146, 241);
+  }
+  
