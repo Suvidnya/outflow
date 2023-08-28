@@ -37,4 +37,9 @@
   a{
     color:rgb(3, 146, 241);
   }
+
+  #test{
+    font-weight: 600;
+    color:rgb(78, 78, 78);
+  }
   
