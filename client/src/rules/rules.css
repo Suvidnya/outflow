@@ -38,8 +38,19 @@
     color:rgb(3, 146, 241);
   }
 
-  #test{
+   #test{
     font-weight: 600;
-    color:rgb(78, 78, 78);
+    color:rgb(0, 0, 0);
+    margin-top: 80px !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
   }
   
+  .testdiv{
+    background-color:rgb(220, 220, 220);
+    /* background-color: rgb(255, 218, 72); */
+    border-radius: 10px;
+    padding: 15px;
+    padding-left: 25px !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
