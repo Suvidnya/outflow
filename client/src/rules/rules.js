@@ -11,7 +11,6 @@ export const Rules = () => {
       <li>You can only use Gmail accounts.</li>
       <li>After successful validation of credentials only,email can be sent; otherwise, an error will occur.</li>
       <li>To enable this service to send emails, please follow the provided instructions step by step. These steps will guide you in leveraging this application.</li>
-      <li>To test it's working you can use EMAIL : 'accforsampleusage@gmail.com' and PASS : 'gxdapptdutxminus'</li>
     </ul>
   </div>
 
